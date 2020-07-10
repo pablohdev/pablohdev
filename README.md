@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Follow Me 🚀
 
-[Linkedin](http://linkedin.com/in/pablohdevhttps://twitter.com/pablohdev) <br>
+[Linkedin](http://linkedin.com/in/pablohdev) <br>
 [Twitter](https://twitter.com/pablohdev) <br>
 [Instagram](http://instagram.com/pablohdev) <br>
 [DevTo](https://dev.to/pablohdev) <br>
