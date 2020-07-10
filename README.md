@@ -1,4 +1,4 @@
-<img src="/pablohdev/1500x500.jpg">
+<!-- <img src="https://github.com/pablohdev/pablohdev/1500x500.jpg"> -->
 
 ## Welcome my Repository 👋
 
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### Follow Me 🚀
 
-[Linkedin]() <br>
-[Twitter]() <br>
-[Instagram]() <br>
+[Linkedin](http://linkedin.com/in/pablohdevhttps://twitter.com/pablohdev) <br>
+[Twitter](https://twitter.com/pablohdev) <br>
+[Instagram](http://instagram.com/pablohdev) <br>
+[DevTo](https://dev.to/pablohdev) <br>
