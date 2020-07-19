@@ -2,26 +2,16 @@
 
 ## Welcome my Repository 👋
 
-My name is Pablo, i'm 24 years old, i'm living in Jaboticabal-SP. I'm Fullstack developer focus my study in Node.js, React.js, React Native and all ecosystem javascript.
-
-<!--
-**pablohdev/pablohdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Pablo, i'm 24 years old, i'm living in Jaboticabal-SP. I'm Fullstack developer focus my study in Node.js, React.js, React Native and all ecosystem javascript. 
 
 ### Follow Me 🚀
-
-[Linkedin](http://linkedin.com/in/pablohdev) <br>
-[Twitter](https://twitter.com/pablohdev) <br>
-[Instagram](http://instagram.com/pablohdev) <br>
-[DevTo](https://dev.to/pablohdev) <br>
+<br>
+<a href="http://linkedin.com/in/pablohdev">
+  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=blue" height=18>
+</a>
+<a href="https://dev.to/pablohdev">
+  <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=18>
+</a>
+<a href="https://twitter.com/pablohdev">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=18>
+</a> 
