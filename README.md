@@ -2,7 +2,8 @@
 
 
 <p align="center">
-	<a href="https://twitter.com/pablohdev"><img   src="https://img.shields.io/twitter/follow/pablohdev?color=%231DA1F2&amp;label=Follow%20me&amp;logo=Twitter&amp;style=for-the-	badge" alt="Twitter Follow"></a> 
+	<a href="https://twitter.com/pablohdev">
+		<img  src="https://img.shields.io/twitter/follow/pablohdev?color=%231DA1F2&amp;label=Follow%20me&amp;logo=Twitter&amp;style=for-the-badge" alt="Twitter Follow"></a> 
     <a href="https://linkedin.com/in/pablohdev"><img src="https://img.shields.io/badge/Follow%20me%20-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin Follow"></a> 
     <a href="https://dev.to/pablohdev"><img src="https://img.shields.io/badge/DEV.to-black?style=for-the-badge" alt="Dev To"></a>
      <a href="https://instagram.com/pablohdev"><img src="https://img.shields.io/badge/Follow%20me%20-black?style=for-the-badge&logo=Instagram&logoColor=%231DA1F2" alt="Instagram Follow"></a> 
