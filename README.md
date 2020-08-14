@@ -1,17 +1,32 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEQC0vMzT1Kjg/profile-displaybackgroundimage-shrink_200_800/0?e=1600905600&v=beta&t=g-KQ3RiKDXeAubz-CeDqc4McacFVD2O7mlqzTv_ABHM" width="100%">
 
-## Welcome my Repository 👋
 
-My name is Pablo, i'm 24 years old, i'm living in Jaboticabal-SP. I'm Fullstack developer focus my study in Node.js, React.js, React Native and all ecosystem javascript. 
+<p align="center">
+	<a href="https://twitter.com/pablohdev"><img   src="https://img.shields.io/twitter/follow/pablohdev?color=%231DA1F2&amp;label=Follow%20me&amp;logo=Twitter&amp;style=for-the-	badge" alt="Twitter Follow"></a> 
+    <a href="https://linkedin.com/in/pablohdev"><img src="https://img.shields.io/badge/Follow%20me%20-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin Follow"></a> 
+    <a href="https://dev.to/pablohdev"><img src="https://img.shields.io/badge/DEV.to-black?style=for-the-badge" alt="Dev To"></a>
+     <a href="https://instagram.com/pablohdev"><img src="https://img.shields.io/badge/Follow%20me%20-black?style=for-the-badge&logo=Instagram&logoColor=%231DA1F2" alt="Instagram Follow"></a> 
+</p>
 
-### Follow Me 🚀
-<br>
-<a href="http://linkedin.com/in/pablohdev">
-  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=blue" height=18>
-</a>
-<a href="https://dev.to/pablohdev">
-  <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=18>
-</a>
-<a href="https://twitter.com/pablohdev">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=18>
-</a> 
+## Hi There 🙋‍♂️, I am Pablo Henrique 
+
+My name is Pablo, i'm 24 years old, i'm living in Jaboticabal-SP. I'm Fullstack developer focus my study in Node.js, React.js, React Native and all ecosystem javascript. Loved in collaborate to community and learning each day plus.
+
+
+###   What I've been collaborating 🚀
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=pablohdev&amp;show_icons=true&theme=dark" alt="github stats"></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablohdev&layout=compact)
+
+### Languages and Tools
+<p>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<p>
