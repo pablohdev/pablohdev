@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQEQC0vMzT1Kjg/profile-displaybackgroundimage-shrink_200_800/0?e=1607558400&v=beta&t=JBocDUrNAhYNgWRb7J-FDCgUNiGDSE_KImmSoJohHsQ" width="100%">
+<img src="https://pbs.twimg.com/profile_banners/794732506876641280/1595201557/1500x500" width="100%">
 
 
 <p align="center">
